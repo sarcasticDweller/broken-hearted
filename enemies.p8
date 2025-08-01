@@ -117,3 +117,4 @@ function clearenemies()
 		del(enemies,e) 
 	end
 end
+

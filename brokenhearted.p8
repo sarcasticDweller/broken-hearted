@@ -116,7 +116,7 @@ function drawscoreboard()
 	print("\npnts",tc)
 	print(points,tc)
 	print("\nhigh",tc)
-	print(dget(higscore),tc)
+	print(dget(highscore),tc)
 	if (hp<1)	print("\ngame\nover")
 end
 -->8
